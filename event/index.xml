@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/event/</link>
+      <atom:link href="https://mclarke1991.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Feb 2023 15:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://mclarke1991.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Predicting personalised therapies for triple-negative breast cancer using computational network modelling</title>
+      <link>https://mclarke1991.github.io/talk/predicting-personalised-therapies-for-triple-negative-breast-cancer-using-computational-network-modelling/</link>
+      <pubDate>Fri, 10 Feb 2023 15:30:00 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/talk/predicting-personalised-therapies-for-triple-negative-breast-cancer-using-computational-network-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executable biology: state-of-the-art methods to enable virtual crispr screens</title>
+      <link>https://mclarke1991.github.io/talk/executable-biology-state-of-the-art-methods-to-enable-virtual-crispr-screens/</link>
+      <pubDate>Tue, 14 Jun 2022 09:30:00 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/talk/executable-biology-state-of-the-art-methods-to-enable-virtual-crispr-screens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executable Network of SARS-CoV-2-Host Interaction Predicts Drug Combination Treatments</title>
+      <link>https://mclarke1991.github.io/talk/executable-network-of-sars-cov-2-host-interaction-predicts-drug-combination-treatments/</link>
+      <pubDate>Tue, 10 May 2022 09:30:00 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/talk/executable-network-of-sars-cov-2-host-interaction-predicts-drug-combination-treatments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

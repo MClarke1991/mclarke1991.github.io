@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heterogeneity | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/heterogeneity/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/heterogeneity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heterogeneity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Oct 2019 13:13:42 +0000</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Heterogeneity</title>
+      <link>https://mclarke1991.github.io/tag/heterogeneity/</link>
+    </image>
+    
+    <item>
+      <title>Heterogeneity of Myc expression in breast cancer exposes pharmacological vulnerabilities revealed through executable mechanistic modeling</title>
+      <link>https://mclarke1991.github.io/publication/kreuzaler2019/</link>
+      <pubDate>Tue, 29 Oct 2019 13:13:42 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/publication/kreuzaler2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
