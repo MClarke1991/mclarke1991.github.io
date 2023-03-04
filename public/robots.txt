@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://mclarke1991.github.io/sitemap.xml
