@@ -5,12 +5,22 @@
     <link>https://mclarke1991.github.io/tag/binary-decision-diagram/</link>
       <atom:link href="https://mclarke1991.github.io/tag/binary-decision-diagram/index.xml" rel="self" type="application/rss+xml" />
     <description>Binary Decision Diagram</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2019 14:45:56 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 20:53:14 +0000</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Binary Decision Diagram</title>
       <link>https://mclarke1991.github.io/tag/binary-decision-diagram/</link>
     </image>
+    
+    <item>
+      <title>Cancer evolution</title>
+      <link>https://mclarke1991.github.io/project/cancer_evolution/</link>
+      <pubDate>Wed, 08 Mar 2023 20:53:14 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/project/cancer_evolution/</guid>
+      <description>&lt;p&gt;Cancers evolve from normal cells, and continue to evolve to evade treatment. Understanding evolution from tumourigenesis will allow for earlier detection of cancer, while predicting evolution of resistance mechanisms is essential for finding treatments that are effective in the long term.&lt;/p&gt;
+&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://peerj.com/articles/8842/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niida et al., &lt;em&gt;PeerJ&lt;/em&gt; 2020&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using State Space Exploration to Determine How Gene Regulatory Networks Constrain Mutation Order in Cancer Evolution</title>

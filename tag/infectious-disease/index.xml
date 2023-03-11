@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Infectious Disease | Matthew A. Clarke</title>
+    <title>Infectious disease | Matthew A. Clarke</title>
     <link>https://mclarke1991.github.io/tag/infectious-disease/</link>
       <atom:link href="https://mclarke1991.github.io/tag/infectious-disease/index.xml" rel="self" type="application/rss+xml" />
-    <description>Infectious Disease</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Feb 2022 15:01:27 +0000</lastBuildDate>
+    <description>Infectious disease</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 20:25:03 +0000</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Infectious Disease</title>
+      <title>Infectious disease</title>
       <link>https://mclarke1991.github.io/tag/infectious-disease/</link>
     </image>
+    
+    <item>
+      <title>Combination therapy</title>
+      <link>https://mclarke1991.github.io/project/combination_therapy/</link>
+      <pubDate>Wed, 08 Mar 2023 20:25:03 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/project/combination_therapy/</guid>
+      <description>&lt;p&gt;Computatational modelling allows screening of thousands of combinations of drugs to find the most effective treatments. This allows for better protection against the emergence of resistance, as well as rapid drug repurposing e.g. to combat emerging diseases such as COVID-19.&lt;/p&gt;
+&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.1903485116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kreuzaler &amp;amp; Clarke et al., &lt;em&gt;PNAS&lt;/em&gt; 2019&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Executable Network of SARS-CoV-2-Host Interaction Predicts Drug Combination Treatments</title>
