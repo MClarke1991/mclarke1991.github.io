@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Melanoma | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/melanoma/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/melanoma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Melanoma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Apr 2023 10:16:14 +0100</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Melanoma</title>
+      <link>https://mclarke1991.github.io/tag/melanoma/</link>
+    </image>
+    
+    <item>
+      <title>Localized immune surveillance of primary melanoma in the skin deciphered through executable modeling</title>
+      <link>https://mclarke1991.github.io/publication/howell2023/</link>
+      <pubDate>Fri, 14 Apr 2023 10:16:14 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/publication/howell2023/</guid>
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.science.org/doi/10.1126/sciadv.add1992&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Howell &amp;amp; Davies et al., &lt;em&gt;Science Advances&lt;/em&gt; 2023&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
