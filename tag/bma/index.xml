@@ -5,12 +5,20 @@
     <link>https://mclarke1991.github.io/tag/bma/</link>
       <atom:link href="https://mclarke1991.github.io/tag/bma/index.xml" rel="self" type="application/rss+xml" />
     <description>BMA</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Mar 2023 20:53:14 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 May 2023 15:50:15 +0100</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>BMA</title>
       <link>https://mclarke1991.github.io/tag/bma/</link>
     </image>
+    
+    <item>
+      <title>Predicting personalised therapies for triple-negative breast cancer using computational network modelling</title>
+      <link>https://mclarke1991.github.io/talk/predicting-personalised-therapies-for-triple-negative-breast-cancer-using-computational-network-modelling/</link>
+      <pubDate>Wed, 17 May 2023 15:50:15 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/talk/predicting-personalised-therapies-for-triple-negative-breast-cancer-using-computational-network-modelling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cancer evolution</title>
@@ -20,6 +28,14 @@
       <description>&lt;p&gt;Cancers evolve from normal cells, and continue to evolve to evade treatment. Understanding evolution from tumourigenesis will allow for earlier detection of cancer, while predicting evolution of resistance mechanisms is essential for finding treatments that are effective in the long term.&lt;/p&gt;
 &lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://peerj.com/articles/8842/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Niida et al., &lt;em&gt;PeerJ&lt;/em&gt; 2020&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Predicting personalised therapies for triple-negative breast cancer using computational network modelling</title>
+      <link>https://mclarke1991.github.io/talk/predicting-personalised-therapies-for-triple-negative-breast-cancer-using-computational-network-modelling/</link>
+      <pubDate>Fri, 10 Feb 2023 15:30:00 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/talk/predicting-personalised-therapies-for-triple-negative-breast-cancer-using-computational-network-modelling/</guid>
+      <description></description>
     </item>
     
     <item>

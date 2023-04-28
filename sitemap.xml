@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mclarke1991.github.io/tag/bma/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/breast-cancer/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/combination-therapy/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/computational-modelling/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/evolution/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/talk/predicting-personalised-therapies-for-triple-negative-breast-cancer-using-computational-network-modelling/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/event/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/resistance/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tags/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/tnbc/</loc>
+    <lastmod>2023-05-17T15:50:15+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://mclarke1991.github.io/publication-type/2/</loc>
     <lastmod>2023-04-14T10:16:14+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,14 +51,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/tag/cancer/</loc>
-    <lastmod>2023-04-14T10:16:14+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/combination-therapy/</loc>
-    <lastmod>2023-04-14T10:16:14+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/computational-modelling/</loc>
     <lastmod>2023-04-14T10:16:14+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -42,23 +74,11 @@
     <lastmod>2023-04-14T10:16:14+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/tags/</loc>
-    <lastmod>2023-04-14T10:16:14+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/tag/binary-decision-diagram/</loc>
     <lastmod>2023-03-08T20:53:14+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/tag/bma/</loc>
-    <lastmod>2023-03-08T20:53:14+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/project/cancer_evolution/</loc>
-    <lastmod>2023-03-08T20:53:14+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/evolution/</loc>
     <lastmod>2023-03-08T20:53:14+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -68,10 +88,6 @@
   </url><url>
     <loc>https://mclarke1991.github.io/tag/tumorigenesis/</loc>
     <lastmod>2023-03-08T20:53:14+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/breast-cancer/</loc>
-    <lastmod>2023-03-08T20:25:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/project/combination_therapy/</loc>
@@ -95,10 +111,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/talk/predicting-personalised-therapies-for-triple-negative-breast-cancer-using-computational-network-modelling/</loc>
-    <lastmod>2023-02-10T15:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/event/</loc>
     <lastmod>2023-02-10T15:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
