@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRISPR | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/crispr/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/crispr/index.xml" rel="self" type="application/rss+xml" />
+    <description>CRISPR</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 09:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>CRISPR</title>
+      <link>https://mclarke1991.github.io/tag/crispr/</link>
+    </image>
+    
+    <item>
+      <title>Executable biology: state-of-the-art methods to enable virtual crispr screens</title>
+      <link>https://mclarke1991.github.io/talk/executable-biology-state-of-the-art-methods-to-enable-virtual-crispr-screens/</link>
+      <pubDate>Tue, 14 Jun 2022 09:30:00 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/talk/executable-biology-state-of-the-art-methods-to-enable-virtual-crispr-screens/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
