@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NSCLC | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/nsclc/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/nsclc/index.xml" rel="self" type="application/rss+xml" />
+    <description>NSCLC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jun 2023 18:26:24 +0100</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>NSCLC</title>
+      <link>https://mclarke1991.github.io/tag/nsclc/</link>
+    </image>
+    
+    <item>
+      <title>Radiosensitising combination treatments for NSCLC using in silico CRISPR screens</title>
+      <link>https://mclarke1991.github.io/talk/radiosensitising-combination-treatments-for-nsclc-using-in-silico-crispr-screens/</link>
+      <pubDate>Fri, 30 Jun 2023 18:26:24 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/talk/radiosensitising-combination-treatments-for-nsclc-using-in-silico-crispr-screens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio-sensitising combination treatments for NSCLC using in silico CRISPR screens</title>
+      <link>https://mclarke1991.github.io/talk/radio-sensitising-combination-treatments-for-nsclc-using-in-silico-crispr-screens/</link>
+      <pubDate>Mon, 19 Jun 2023 15:57:37 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/talk/radio-sensitising-combination-treatments-for-nsclc-using-in-silico-crispr-screens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio-sensitising combination treatments in NSCLC using in silico CRISPR screens</title>
+      <link>https://mclarke1991.github.io/talk/radio-sensitising-combination-treatments-in-nsclc-using-in-silico-crispr-screens/</link>
+      <pubDate>Sat, 03 Jun 2023 18:24:17 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/talk/radio-sensitising-combination-treatments-in-nsclc-using-in-silico-crispr-screens/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
