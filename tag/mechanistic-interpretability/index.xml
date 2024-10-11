@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechanistic Interpretability | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/mechanistic-interpretability/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/mechanistic-interpretability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mechanistic Interpretability</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 12:13:28 +0100</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>Mechanistic Interpretability</title>
+      <link>https://mclarke1991.github.io/tag/mechanistic-interpretability/</link>
+    </image>
+    
+    <item>
+      <title>Features that Fire Together Wire Together: Examining Co-occurence of SAE Features </title>
+      <link>https://mclarke1991.github.io/talk/features-that-fire-together-wire-together-examining-co-occurence-of-sae-features/</link>
+      <pubDate>Fri, 11 Oct 2024 12:13:28 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/talk/features-that-fire-together-wire-together-examining-co-occurence-of-sae-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAE Latent Co-occurrence</title>
+      <link>https://mclarke1991.github.io/project/sae_cooccurrence/</link>
+      <pubDate>Fri, 11 Oct 2024 11:59:23 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/project/sae_cooccurrence/</guid>
+      <description>&lt;p&gt;Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. Rather, they co-occur in clusters that map out interpretable subspaces. These subspaces show latents acting compositionally, as well as being used to resolve ambiguity in language. However, SAE latents remain largely independently interpretable within these contexts despite this behaviour. Furthermore, these clusters decrease in both size and prevalence as SAE width increases, suggesting this is a phenomenon of small SAEs with coarse-grained features.&lt;/p&gt;
+&lt;p&gt;For more, see my talk as part of the &lt;a href=&#34;https://youtu.be/OyKXjdA09fE?si=gD9IRD0ohVMEbYwr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIBBSS 2024 summer symposium&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
