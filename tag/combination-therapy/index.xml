@@ -21,6 +21,17 @@
     </item>
     
     <item>
+      <title>Combination therapy</title>
+      <link>https://mclarke1991.github.io/project/combination_therapy/</link>
+      <pubDate>Fri, 08 Mar 2024 20:25:03 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/project/combination_therapy/</guid>
+      <description>&lt;p&gt;Computatational modelling allows screening of thousands of combinations of drugs to find the most effective treatments. This allows for better protection against the emergence of resistance, as well as rapid drug repurposing e.g. to combat emerging diseases such as COVID-19.&lt;/p&gt;
+&lt;p&gt;We have applied our scalable approach to modelling thousands of drug combinations to breast cancer &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.1903485116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;, COVID-19 &lt;a href=&#34;https://www.nature.com/articles/s41746-022-00561-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; and acute myeloid leukaemia &lt;a href=&#34;https://www.science.org/doi/epdf/10.1126/sciadv.add1992&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.1903485116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kreuzaler &amp;amp; Clarke et al., &lt;em&gt;PNAS&lt;/em&gt; 2019&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Predicted combination treatments for NSCLC using in silico CRISPR screens</title>
       <link>https://mclarke1991.github.io/talk/predicted-combination-treatments-for-nsclc-using-in-silico-crispr-screens/</link>
       <pubDate>Tue, 27 Feb 2024 14:45:17 +0000</pubDate>
@@ -72,16 +83,6 @@
     </item>
     
     <item>
-      <title>Combination therapy</title>
-      <link>https://mclarke1991.github.io/project/combination_therapy/</link>
-      <pubDate>Wed, 08 Mar 2023 20:25:03 +0000</pubDate>
-      <guid>https://mclarke1991.github.io/project/combination_therapy/</guid>
-      <description>&lt;p&gt;Computatational modelling allows screening of thousands of combinations of drugs to find the most effective treatments. This allows for better protection against the emergence of resistance, as well as rapid drug repurposing e.g. to combat emerging diseases such as COVID-19.&lt;/p&gt;
-&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.1903485116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kreuzaler &amp;amp; Clarke et al., &lt;em&gt;PNAS&lt;/em&gt; 2019&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Predicting personalised therapies for triple-negative breast cancer using computational network modelling</title>
       <link>https://mclarke1991.github.io/talk/predicting-personalised-therapies-for-triple-negative-breast-cancer-using-computational-network-modelling/</link>
       <pubDate>Fri, 10 Feb 2023 15:30:00 +0000</pubDate>
@@ -120,6 +121,15 @@
       <pubDate>Tue, 29 Oct 2019 13:13:42 +0000</pubDate>
       <guid>https://mclarke1991.github.io/publication/kreuzaler2019/</guid>
       <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.1903485116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kreuzaler &amp;amp; Clarke et al., &lt;em&gt;PNAS&lt;/em&gt; 2019&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive Computational Modelling of the c-myc Gene Regulatory Network for Combinatorial Treatments of Breast Cancer</title>
+      <link>https://mclarke1991.github.io/publication/thesis/</link>
+      <pubDate>Tue, 06 Nov 2018 18:20:02 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/publication/thesis/</guid>
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://doi.org/10.17863/CAM.31535&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clarke, M. A. (2018). Predictive Computational Modelling of the c-myc Gene Regulatory Network for Combinatorial Treatments of Breast Cancer.&lt;/a&gt; (© University of Cambridge 2018)&lt;/p&gt;
 </description>
     </item>
     
