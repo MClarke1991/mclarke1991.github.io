@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/publication-type/3/</link>
+      <atom:link href="https://mclarke1991.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 08:51:04 +0000</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>3</title>
+      <link>https://mclarke1991.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Compositionality and Ambiguity: Latent Co-occurrence and Interpretable Subspaces</title>
+      <link>https://mclarke1991.github.io/publication/sae_cooc_2024/</link>
+      <pubDate>Fri, 20 Dec 2024 08:51:04 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/publication/sae_cooc_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

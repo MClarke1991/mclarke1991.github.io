@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Compositionality and Ambiguity: Latent Co-occurrence and Interpretable Subspaces</title>
+      <link>https://mclarke1991.github.io/publication/sae_cooc_2024/</link>
+      <pubDate>Fri, 20 Dec 2024 08:51:04 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/publication/sae_cooc_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Features that Fire Together Wire Together: Examining Co-occurence of SAE Features </title>
       <link>https://mclarke1991.github.io/talk/features-that-fire-together-wire-together-examining-co-occurence-of-sae-features/</link>
       <pubDate>Fri, 11 Oct 2024 12:13:28 +0100</pubDate>
@@ -26,7 +34,7 @@
       <pubDate>Fri, 11 Oct 2024 11:59:23 +0100</pubDate>
       <guid>https://mclarke1991.github.io/project/sae_cooccurrence/</guid>
       <description>&lt;p&gt;Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. Rather, they co-occur in clusters that map out interpretable subspaces. These subspaces show latents acting compositionally, as well as being used to resolve ambiguity in language. However, SAE latents remain largely independently interpretable within these contexts despite this behaviour. Furthermore, these clusters decrease in both size and prevalence as SAE width increases, suggesting this is a phenomenon of small SAEs with coarse-grained features.&lt;/p&gt;
-&lt;p&gt;For more, see my talk as part of the &lt;a href=&#34;https://youtu.be/OyKXjdA09fE?si=gD9IRD0ohVMEbYwr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIBBSS 2024 summer symposium&lt;/a&gt; or explore the &lt;a href=&#34;https://feature-cooccurrence.streamlit.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE Latent Co-occurrence App&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more, see our &lt;a href=&#34;https://www.lesswrong.com/posts/WNoqEivcCSg8gJe5h/compositionality-and-ambiguity-latent-co-occurrence-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt; on LessWrong, my talk as part of the &lt;a href=&#34;https://youtu.be/OyKXjdA09fE?si=gD9IRD0ohVMEbYwr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIBBSS 2024 summer symposium&lt;/a&gt; or explore the &lt;a href=&#34;https://feature-cooccurrence.streamlit.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE Latent Co-occurrence App&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -192,7 +200,7 @@
       <link>https://mclarke1991.github.io/publication/clarke2020/</link>
       <pubDate>Mon, 27 Apr 2020 14:56:37 +0000</pubDate>
       <guid>https://mclarke1991.github.io/publication/clarke2020/</guid>
-      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.nature.com/articles/s41568-020-0258-x.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clarke et al., &lt;em&gt;Nature Reviews Cancer&lt;/em&gt; 2020&lt;/a&gt; © Springer Nature Limited 2020&lt;/p&gt;
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.nature.com/articles/s41568-020-0258-x.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clarke et al., &lt;em&gt;Nature Reviews Cancer&lt;/em&gt; 2020&lt;/a&gt; (© Springer Nature Limited 2020)&lt;/p&gt;
 </description>
     </item>
     

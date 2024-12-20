@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: November 6, 2024 --><html lang="en-us" >
+<!-- Last Published: December 20, 2024 --><html lang="en-us" >
 
 
 <head>
@@ -277,7 +277,7 @@
 
   
 
-<meta name="description" content="Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. We are investigating: 1. What fraction of SAE latents might best be understood in groups rather than individually? 2. Do low-dimensional subspaces mapped by co-occurring groups of features ever provide a better unit of analysis (or possibly intervention) than individual SAE latents? " />
+<meta name="description" content="Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. We investigate: 1. What fraction of SAE latents might best be understood in groups rather than individually? 2. Do low-dimensional subspaces mapped by co-occurring groups of features ever provide a better unit of analysis (or possibly intervention) than individual SAE latents?" />
 
 
 
@@ -325,7 +325,7 @@
 <meta property="og:site_name" content="Matthew A. Clarke" />
 <meta property="og:url" content="https://mclarke1991.github.io/project/sae_cooccurrence/" />
 <meta property="og:title" content="SAE Latent Co-occurrence | Matthew A. Clarke" />
-<meta property="og:description" content="Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. We are investigating: 1. What fraction of SAE latents might best be understood in groups rather than individually? 2. Do low-dimensional subspaces mapped by co-occurring groups of features ever provide a better unit of analysis (or possibly intervention) than individual SAE latents? " /><meta property="og:image" content="https://mclarke1991.github.io/project/sae_cooccurrence/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. We investigate: 1. What fraction of SAE latents might best be understood in groups rather than individually? 2. Do low-dimensional subspaces mapped by co-occurring groups of features ever provide a better unit of analysis (or possibly intervention) than individual SAE latents?" /><meta property="og:image" content="https://mclarke1991.github.io/project/sae_cooccurrence/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -382,7 +382,7 @@
       "url": "https://mclarke1991.github.io/media/icon_hu5609693425197255918.png"
     }
   },
-  "description": "Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. We are investigating: 1. What fraction of SAE latents might best be understood in groups rather than individually? 2. Do low-dimensional subspaces mapped by co-occurring groups of features ever provide a better unit of analysis (or possibly intervention) than individual SAE latents? "
+  "description": "Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. We investigate: 1. What fraction of SAE latents might best be understood in groups rather than individually? 2. Do low-dimensional subspaces mapped by co-occurring groups of features ever provide a better unit of analysis (or possibly intervention) than individual SAE latents?"
 }
 </script>
 
@@ -868,8 +868,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary btn-page-header" href="https://www.lesswrong.com/posts/WNoqEivcCSg8gJe5h/compositionality-and-ambiguity-latent-co-occurrence-and" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -922,7 +928,7 @@
 
     <div class="article-style">
       <p>Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. Rather, they co-occur in clusters that map out interpretable subspaces. These subspaces show latents acting compositionally, as well as being used to resolve ambiguity in language. However, SAE latents remain largely independently interpretable within these contexts despite this behaviour. Furthermore, these clusters decrease in both size and prevalence as SAE width increases, suggesting this is a phenomenon of small SAEs with coarse-grained features.</p>
-<p>For more, see my talk as part of the <a href="https://youtu.be/OyKXjdA09fE?si=gD9IRD0ohVMEbYwr" target="_blank" rel="noopener">PIBBSS 2024 summer symposium</a> or explore the <a href="https://feature-cooccurrence.streamlit.app/" target="_blank" rel="noopener">SAE Latent Co-occurrence App</a>.</p>
+<p>For more, see our <a href="https://www.lesswrong.com/posts/WNoqEivcCSg8gJe5h/compositionality-and-ambiguity-latent-co-occurrence-and" target="_blank" rel="noopener">post</a> on LessWrong, my talk as part of the <a href="https://youtu.be/OyKXjdA09fE?si=gD9IRD0ohVMEbYwr" target="_blank" rel="noopener">PIBBSS 2024 summer symposium</a> or explore the <a href="https://feature-cooccurrence.streamlit.app/" target="_blank" rel="noopener">SAE Latent Co-occurrence App</a>.</p>
 
     </div>
 
@@ -1217,6 +1223,144 @@
 
       
       
+      
+        <h2>Publications</h2>
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/sae_cooc_2024/" >Compositionality and Ambiguity: Latent Co-occurrence and Interpretable Subspaces</a>
+    </div>
+
+    
+    <a href="/publication/sae_cooc_2024/"  class="summary-link">
+      <div class="article-style">
+        Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      Matthew A. Clarke</span>, <span >
+      Hardik Bhatnagar</span>, <span >
+      Joseph Bloom</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.lesswrong.com/posts/WNoqEivcCSg8gJe5h/compositionality-and-ambiguity-latent-co-occurrence-and" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/MClarke1991/sae_cooccurrence" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://feature-cooccurrence.streamlit.app/" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sae_cooccurrence/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/OyKXjdA09fE?si=gD9IRD0ohVMEbYwr" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/publication/sae_cooc_2024/" >
+        <img src="/publication/sae_cooc_2024/featured_hu14183490116378626769.webp" height="99" width="150"
+            alt="Compositionality and Ambiguity: Latent Co-occurrence and Interpretable Subspaces" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+        
       
 
       

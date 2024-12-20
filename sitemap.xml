@@ -2,31 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mclarke1991.github.io/publication-type/3/</loc>
+    <lastmod>2024-12-20T08:51:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication/sae_cooc_2024/</loc>
+    <lastmod>2024-12-20T08:51:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/llm/</loc>
+    <lastmod>2024-12-20T08:51:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/mechanistic-interpretability/</loc>
+    <lastmod>2024-12-20T08:51:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/pibbss/</loc>
+    <lastmod>2024-12-20T08:51:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication_types/</loc>
+    <lastmod>2024-12-20T08:51:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication/</loc>
+    <lastmod>2024-12-20T08:51:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/sae/</loc>
+    <lastmod>2024-12-20T08:51:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tags/</loc>
+    <lastmod>2024-12-20T08:51:04+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://mclarke1991.github.io/talk/features-that-fire-together-wire-together-examining-co-occurence-of-sae-features/</loc>
     <lastmod>2024-10-11T12:13:28+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/tag/llm/</loc>
-    <lastmod>2024-10-11T12:13:28+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/mechanistic-interpretability/</loc>
-    <lastmod>2024-10-11T12:13:28+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/pibbss/</loc>
-    <lastmod>2024-10-11T12:13:28+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/event/</loc>
-    <lastmod>2024-10-11T12:13:28+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/sae/</loc>
-    <lastmod>2024-10-11T12:13:28+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tags/</loc>
     <lastmod>2024-10-11T12:13:28+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -187,14 +203,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/tag/melanoma/</loc>
-    <lastmod>2023-04-14T10:16:14+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/publication_types/</loc>
-    <lastmod>2023-04-14T10:16:14+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/publication/</loc>
     <lastmod>2023-04-14T10:16:14+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
