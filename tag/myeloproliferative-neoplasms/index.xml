@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myeloproliferative Neoplasms | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/myeloproliferative-neoplasms/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/myeloproliferative-neoplasms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Myeloproliferative Neoplasms</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2024 20:53:14 +0000</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>Myeloproliferative Neoplasms</title>
+      <link>https://mclarke1991.github.io/tag/myeloproliferative-neoplasms/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Cancer Evolution</title>
+      <link>https://mclarke1991.github.io/project/cancer_evolution/</link>
+      <pubDate>Mon, 08 Apr 2024 20:53:14 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/project/cancer_evolution/</guid>
+      <description>&lt;p&gt;Cancers evolve from normal cells, and continue to evolve to evade treatment. Understanding evolution from tumourigenesis will allow for earlier detection of cancer, while predicting evolution of resistance mechanisms is essential for finding treatments that are effective in the long term.&lt;/p&gt;
+&lt;p&gt;We have developed a computational method for efficient search of potential evolutionary pathways from normal cells to cancer and applied this to breast cancer &lt;a href=&#34;https://github.com/JFisherLab/MutationOrder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-17297-8_5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Based on this work, we have also developed a model of myeloproliferative neoplasms (MPNs) that unravels why these neoplasms have different behaviours dependent on the order in which they gain mutations, even if their mutational profiles are otherwise identical &lt;a href=&#34;https://www.nature.com/articles/s41467-022-33189-w.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- Image credit: Adapted from [Niida et al., _PeerJ_ 2020](https://peerj.com/articles/8842/). [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) --&gt;
+&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.nature.com/articles/s41467-022-33189-w.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talarmain et al., &lt;em&gt;Nature Communications&lt;/em&gt; 2022&lt;/a&gt; &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HOXA9 has the hallmarks of a biological switch with implications in blood cancers</title>
+      <link>https://mclarke1991.github.io/publication/talarmain2022/</link>
+      <pubDate>Mon, 03 Oct 2022 10:39:44 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/publication/talarmain2022/</guid>
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.nature.com/articles/s41467-022-33189-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talarmain et al., &lt;em&gt;Nat Comm&lt;/em&gt;, 2022&lt;/a&gt;.  &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

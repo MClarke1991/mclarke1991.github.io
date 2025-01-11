@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ER- | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/er-/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/er-/index.xml" rel="self" type="application/rss+xml" />
+    <description>ER-</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Oct 2019 13:13:42 +0000</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>ER-</title>
+      <link>https://mclarke1991.github.io/tag/er-/</link>
+    </image>
+    
+    <item>
+      <title>Heterogeneity of Myc expression in breast cancer exposes pharmacological vulnerabilities revealed through executable mechanistic modeling</title>
+      <link>https://mclarke1991.github.io/publication/kreuzaler2019/</link>
+      <pubDate>Tue, 29 Oct 2019 13:13:42 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/publication/kreuzaler2019/</guid>
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.1903485116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kreuzaler &amp;amp; Clarke et al., &lt;em&gt;PNAS&lt;/em&gt; 2019&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predictive Computational Modelling of the c-myc Gene Regulatory Network for Combinatorial Treatments of Breast Cancer</title>
+      <link>https://mclarke1991.github.io/publication/thesis/</link>
+      <pubDate>Tue, 06 Nov 2018 18:20:02 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/publication/thesis/</guid>
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://doi.org/10.17863/CAM.31535&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clarke, M. A. (2018). Predictive Computational Modelling of the c-myc Gene Regulatory Network for Combinatorial Treatments of Breast Cancer.&lt;/a&gt; (© University of Cambridge 2018)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
