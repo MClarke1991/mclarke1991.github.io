@@ -5,7 +5,7 @@
     <link>https://mclarke1991.github.io/tag/infectious-disease/</link>
       <atom:link href="https://mclarke1991.github.io/tag/infectious-disease/index.xml" rel="self" type="application/rss+xml" />
     <description>Infectious Disease</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Mar 2024 20:25:03 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 20:25:03 +0000</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
       <title>Infectious Disease</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Combination therapy</title>
       <link>https://mclarke1991.github.io/project/combination_therapy/</link>
-      <pubDate>Fri, 08 Mar 2024 20:25:03 +0000</pubDate>
+      <pubDate>Sat, 08 Mar 2025 20:25:03 +0000</pubDate>
       <guid>https://mclarke1991.github.io/project/combination_therapy/</guid>
       <description>&lt;p&gt;Computatational modelling allows screening of thousands of combinations of drugs to find the most effective treatments. This allows for better protection against the emergence of resistance, as well as rapid drug repurposing e.g. to combat emerging diseases such as COVID-19.&lt;/p&gt;
 &lt;p&gt;We have applied our scalable approach to modelling thousands of drug combinations to &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2025.01.07.631497v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lung cancer&lt;/a&gt;, &lt;a href=&#34;https://www.pnas.org/doi/full/10.1073/pnas.1903485116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;breast cancer&lt;/a&gt;, &lt;a href=&#34;https://www.nature.com/articles/s41746-022-00561-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COVID-19&lt;/a&gt; and &lt;a href=&#34;https://www.science.org/doi/epdf/10.1126/sciadv.add1992&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;melanoma&lt;/a&gt;.&lt;/p&gt;

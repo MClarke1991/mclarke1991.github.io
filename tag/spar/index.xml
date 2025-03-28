@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPAR | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/spar/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/spar/index.xml" rel="self" type="application/rss+xml" />
+    <description>SPAR</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 16:25:37 +0000</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>SPAR</title>
+      <link>https://mclarke1991.github.io/tag/spar/</link>
+    </image>
+    
+    <item>
+      <title>Gradient Routing</title>
+      <link>https://mclarke1991.github.io/project/gradient_routing/</link>
+      <pubDate>Fri, 28 Mar 2025 16:25:37 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/project/gradient_routing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
