@@ -3,54 +3,114 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mclarke1991.github.io/tag/ai-safety/</loc>
-    <lastmod>2025-03-28T16:25:37+00:00</lastmod>
+    <lastmod>2025-05-21T16:37:45+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/talk/containing-spillover-with-minimal-supervision/</loc>
+    <lastmod>2025-05-21T16:37:45+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/tag/gradient-routing/</loc>
-    <lastmod>2025-03-28T16:25:37+00:00</lastmod>
+    <lastmod>2025-05-21T16:37:45+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/neural-networks/</loc>
+    <lastmod>2025-05-21T16:37:45+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/event/</loc>
+    <lastmod>2025-05-21T16:37:45+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/spar/</loc>
+    <lastmod>2025-05-21T16:37:45+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tags/</loc>
+    <lastmod>2025-05-21T16:37:45+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication-type/3/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/biomodelanalyzer/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/bma/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/breast-cancer/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/cancer/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/combination-therapy/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/computational-modelling/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/drug-discovery/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/drug-response/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/drug-response-prediction/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/graph-neural-networks/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/lung-cancer/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication/magellan/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/message-passing/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication_types/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication/</loc>
+    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/project/auto_drug/</loc>
+    <lastmod>2025-05-21T14:32:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/machine-learning/</loc>
+    <lastmod>2025-05-21T14:32:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/project/</loc>
+    <lastmod>2025-05-21T14:32:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/project/gradient_routing/</loc>
     <lastmod>2025-03-28T16:25:37+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/tag/neural-networks/</loc>
-    <lastmod>2025-03-28T16:25:37+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/project/</loc>
-    <lastmod>2025-03-28T16:25:37+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/spar/</loc>
-    <lastmod>2025-03-28T16:25:37+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tags/</loc>
-    <lastmod>2025-03-28T16:25:37+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/biomodelanalyzer/</loc>
-    <lastmod>2025-03-08T20:25:03+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/breast-cancer/</loc>
-    <lastmod>2025-03-08T20:25:03+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/cancer/</loc>
-    <lastmod>2025-03-08T20:25:03+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/project/combination_therapy/</loc>
-    <lastmod>2025-03-08T20:25:03+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/combination-therapy/</loc>
-    <lastmod>2025-03-08T20:25:03+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/computational-modelling/</loc>
     <lastmod>2025-03-08T20:25:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -59,10 +119,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/tag/infectious-disease/</loc>
-    <lastmod>2025-03-08T20:25:03+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/lung-cancer/</loc>
     <lastmod>2025-03-08T20:25:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -78,14 +134,6 @@
     <lastmod>2025-03-08T20:25:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/publication-type/3/</loc>
-    <lastmod>2025-01-09T14:22:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/bma/</loc>
-    <lastmod>2025-01-09T14:22:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/tag/ddr/</loc>
     <lastmod>2025-01-09T14:22:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,23 +142,11 @@
     <lastmod>2025-01-09T14:22:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/tag/drug-discovery/</loc>
-    <lastmod>2025-01-09T14:22:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/tag/heterogeneity/</loc>
     <lastmod>2025-01-09T14:22:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/publication/nsclc_2025/</loc>
-    <lastmod>2025-01-09T14:22:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/publication_types/</loc>
-    <lastmod>2025-01-09T14:22:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/publication/</loc>
     <lastmod>2025-01-09T14:22:23+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -154,15 +190,7 @@
     <lastmod>2024-10-11T12:13:28+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/event/</loc>
-    <lastmod>2024-10-11T12:13:28+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/tag/ai/</loc>
-    <lastmod>2024-10-11T11:59:23+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/machine-learning/</loc>
     <lastmod>2024-10-11T11:59:23+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

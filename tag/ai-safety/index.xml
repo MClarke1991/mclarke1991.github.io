@@ -5,12 +5,20 @@
     <link>https://mclarke1991.github.io/tag/ai-safety/</link>
       <atom:link href="https://mclarke1991.github.io/tag/ai-safety/index.xml" rel="self" type="application/rss+xml" />
     <description>AI Safety</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 Mar 2025 16:25:37 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 May 2025 16:37:45 +0100</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
       <title>AI Safety</title>
       <link>https://mclarke1991.github.io/tag/ai-safety/</link>
     </image>
+    
+    <item>
+      <title>Containing Spillover with Minimal Supervision</title>
+      <link>https://mclarke1991.github.io/talk/containing-spillover-with-minimal-supervision/</link>
+      <pubDate>Wed, 21 May 2025 16:37:45 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/talk/containing-spillover-with-minimal-supervision/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gradient Routing</title>

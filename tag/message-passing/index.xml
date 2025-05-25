@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Message Passing | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/message-passing/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/message-passing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Message Passing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 May 2025 15:13:02 +0100</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>Message Passing</title>
+      <link>https://mclarke1991.github.io/tag/message-passing/</link>
+    </image>
+    
+    <item>
+      <title>MAGELLAN: Automated Generation of Interpretable Computational Models for Biological Reasoning</title>
+      <link>https://mclarke1991.github.io/publication/magellan/</link>
+      <pubDate>Wed, 21 May 2025 15:13:02 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/publication/magellan/</guid>
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2025.05.16.653408v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clarke, Barker &amp;amp; Sun et al. &lt;em&gt;bioRxiv&lt;/em&gt; (2025)&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

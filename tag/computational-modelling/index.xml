@@ -5,12 +5,31 @@
     <link>https://mclarke1991.github.io/tag/computational-modelling/</link>
       <atom:link href="https://mclarke1991.github.io/tag/computational-modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>Computational Modelling</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 20:25:03 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 May 2025 15:13:02 +0100</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
       <title>Computational Modelling</title>
       <link>https://mclarke1991.github.io/tag/computational-modelling/</link>
     </image>
+    
+    <item>
+      <title>MAGELLAN: Automated Generation of Interpretable Computational Models for Biological Reasoning</title>
+      <link>https://mclarke1991.github.io/publication/magellan/</link>
+      <pubDate>Wed, 21 May 2025 15:13:02 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/publication/magellan/</guid>
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2025.05.16.653408v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clarke, Barker &amp;amp; Sun et al. &lt;em&gt;bioRxiv&lt;/em&gt; (2025)&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automating Drug Discovery</title>
+      <link>https://mclarke1991.github.io/project/auto_drug/</link>
+      <pubDate>Wed, 21 May 2025 14:32:24 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/project/auto_drug/</guid>
+      <description>&lt;p&gt;Computational models have become essential tools for understanding signalling networks and their non-linear dynamics. However, these models are typically constructed manually using prior knowledge and can be over-reliant on study bias. Scaling up the construction and analysisof models to take advantage of increasingly abundant &amp;lsquo;omics data can bridge these gaps by providing a comprehensive view of signalling events and how they influence cellular phenotypes.&lt;/p&gt;
+&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2025.05.16.653408v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clarke, Barker &amp;amp; Sun et al. (2025)&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Combination therapy</title>
