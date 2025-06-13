@@ -23,9 +23,11 @@
     <item>
       <title>Gradient Routing</title>
       <link>https://mclarke1991.github.io/project/gradient_routing/</link>
-      <pubDate>Fri, 28 Mar 2025 16:25:37 +0000</pubDate>
+      <pubDate>Thu, 28 Mar 2024 16:25:37 +0000</pubDate>
       <guid>https://mclarke1991.github.io/project/gradient_routing/</guid>
-      <description></description>
+      <description>&lt;p&gt;Can we control where learning happens in neural networks? Gradient routing addresses this by applying masks to limit the flow of gradients during backpropagation. By supplying different masks for different data points, the user can induce specialized subcomponents within a model. As part of SPAR, I worked on applying this method to AI safety research, focussing on addressing the problem of &lt;a href=&#34;https://arxiv.org/abs/2502.17424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emergent misalignment&lt;/a&gt; during &lt;a href=&#34;https://arxiv.org/abs/2302.00487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;continual learning&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://arxiv.org/abs/2410.04332&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud et al., 2024&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

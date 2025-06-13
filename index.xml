@@ -40,11 +40,13 @@
     </item>
     
     <item>
-      <title>Gradient Routing</title>
-      <link>https://mclarke1991.github.io/project/gradient_routing/</link>
-      <pubDate>Fri, 28 Mar 2025 16:25:37 +0000</pubDate>
-      <guid>https://mclarke1991.github.io/project/gradient_routing/</guid>
-      <description></description>
+      <title>SAE Latent Co-occurrence</title>
+      <link>https://mclarke1991.github.io/project/sae_cooccurrence/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/project/sae_cooccurrence/</guid>
+      <description>&lt;p&gt;Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. Rather, they co-occur in clusters that map out interpretable subspaces. These subspaces show latents acting compositionally, as well as being used to resolve ambiguity in language. However, SAE latents remain largely independently interpretable within these contexts despite this behaviour. Furthermore, these clusters decrease in both size and prevalence as SAE width increases, suggesting this is a phenomenon of small SAEs with coarse-grained features.&lt;/p&gt;
+&lt;p&gt;For more, see our &lt;a href=&#34;https://www.lesswrong.com/posts/WNoqEivcCSg8gJe5h/compositionality-and-ambiguity-latent-co-occurrence-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt; on LessWrong, my talk as part of the &lt;a href=&#34;https://youtu.be/OyKXjdA09fE?si=gD9IRD0ohVMEbYwr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIBBSS 2024 summer symposium&lt;/a&gt; or explore the &lt;a href=&#34;https://feature-cooccurrence.streamlit.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE Latent Co-occurrence App&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -76,16 +78,6 @@
     </item>
     
     <item>
-      <title>DNA Damage Repair and Radiotherapy</title>
-      <link>https://mclarke1991.github.io/project/radiotherapy/</link>
-      <pubDate>Thu, 07 Nov 2024 15:16:27 +0000</pubDate>
-      <guid>https://mclarke1991.github.io/project/radiotherapy/</guid>
-      <description>&lt;p&gt;Cancers often emerge, in part, due to deficencies in DNA damage repair, making them vulnerable to DNA damaging treatments such as radiotherapy. While radiotherapy efficacy has been increasing, this is mainly due to better targeting of tumour anatomy, but targeted therapy offers the opportunity to radiosensitise tumour cells by targeting vulnerabilities in the tumour biology. We use computational modelling to find such vulnerabilities, and explore potential resistance mechanisms.&lt;/p&gt;
-&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.749496/full#h9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elbana et al. &lt;em&gt;Front. Oncol&lt;/em&gt; 2021&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Features that Fire Together Wire Together: Examining Co-occurence of SAE Features </title>
       <link>https://mclarke1991.github.io/talk/features-that-fire-together-wire-together-examining-co-occurence-of-sae-features/</link>
       <pubDate>Fri, 11 Oct 2024 12:13:28 +0100</pubDate>
@@ -94,12 +86,15 @@
     </item>
     
     <item>
-      <title>SAE Latent Co-occurrence</title>
-      <link>https://mclarke1991.github.io/project/sae_cooccurrence/</link>
-      <pubDate>Fri, 11 Oct 2024 11:59:23 +0100</pubDate>
-      <guid>https://mclarke1991.github.io/project/sae_cooccurrence/</guid>
-      <description>&lt;p&gt;Sparse AutoEncoder (SAE) latents show promise as a method for extracting interpretable features from large language models (LM), but their overall utility as the foundation of mechanistic understanding of LM remains unclear. Ideal features would be linear and independent, but we show that there exist SAE latents in GPT2-Small display non-independent behaviour, especially in small SAEs. Rather, they co-occur in clusters that map out interpretable subspaces. These subspaces show latents acting compositionally, as well as being used to resolve ambiguity in language. However, SAE latents remain largely independently interpretable within these contexts despite this behaviour. Furthermore, these clusters decrease in both size and prevalence as SAE width increases, suggesting this is a phenomenon of small SAEs with coarse-grained features.&lt;/p&gt;
-&lt;p&gt;For more, see our &lt;a href=&#34;https://www.lesswrong.com/posts/WNoqEivcCSg8gJe5h/compositionality-and-ambiguity-latent-co-occurrence-and&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt; on LessWrong, my talk as part of the &lt;a href=&#34;https://youtu.be/OyKXjdA09fE?si=gD9IRD0ohVMEbYwr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PIBBSS 2024 summer symposium&lt;/a&gt; or explore the &lt;a href=&#34;https://feature-cooccurrence.streamlit.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SAE Latent Co-occurrence App&lt;/a&gt;.&lt;/p&gt;
+      <title>Predicting Cancer Evolution</title>
+      <link>https://mclarke1991.github.io/project/cancer_evolution/</link>
+      <pubDate>Wed, 08 May 2024 20:53:14 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/project/cancer_evolution/</guid>
+      <description>&lt;p&gt;Cancers evolve from normal cells, and continue to evolve to evade treatment. Understanding evolution from tumourigenesis will allow for earlier detection of cancer, while predicting evolution of resistance mechanisms is essential for finding treatments that are effective in the long term.&lt;/p&gt;
+&lt;p&gt;We have developed a computational method for efficient search of potential evolutionary pathways from normal cells to cancer and applied this to breast cancer &lt;a href=&#34;https://github.com/JFisherLab/MutationOrder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-17297-8_5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Based on this work, we have also developed a model of myeloproliferative neoplasms (MPNs) that unravels why these neoplasms have different behaviours dependent on the order in which they gain mutations, even if their mutational profiles are otherwise identical &lt;a href=&#34;https://www.nature.com/articles/s41467-022-33189-w.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- Image credit: Adapted from [Niida et al., _PeerJ_ 2020](https://peerj.com/articles/8842/). [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) --&gt;
+&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.nature.com/articles/s41467-022-33189-w.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talarmain et al., &lt;em&gt;Nature Communications&lt;/em&gt; 2022&lt;/a&gt; &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -112,15 +107,22 @@
     </item>
     
     <item>
-      <title>Predicting Cancer Evolution</title>
-      <link>https://mclarke1991.github.io/project/cancer_evolution/</link>
-      <pubDate>Mon, 08 Apr 2024 20:53:14 +0000</pubDate>
-      <guid>https://mclarke1991.github.io/project/cancer_evolution/</guid>
-      <description>&lt;p&gt;Cancers evolve from normal cells, and continue to evolve to evade treatment. Understanding evolution from tumourigenesis will allow for earlier detection of cancer, while predicting evolution of resistance mechanisms is essential for finding treatments that are effective in the long term.&lt;/p&gt;
-&lt;p&gt;We have developed a computational method for efficient search of potential evolutionary pathways from normal cells to cancer and applied this to breast cancer &lt;a href=&#34;https://github.com/JFisherLab/MutationOrder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-17297-8_5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Based on this work, we have also developed a model of myeloproliferative neoplasms (MPNs) that unravels why these neoplasms have different behaviours dependent on the order in which they gain mutations, even if their mutational profiles are otherwise identical &lt;a href=&#34;https://www.nature.com/articles/s41467-022-33189-w.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- Image credit: Adapted from [Niida et al., _PeerJ_ 2020](https://peerj.com/articles/8842/). [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) --&gt;
-&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.nature.com/articles/s41467-022-33189-w.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Talarmain et al., &lt;em&gt;Nature Communications&lt;/em&gt; 2022&lt;/a&gt; &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+      <title>DNA Damage Repair and Radiotherapy</title>
+      <link>https://mclarke1991.github.io/project/radiotherapy/</link>
+      <pubDate>Sun, 07 Apr 2024 15:16:27 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/project/radiotherapy/</guid>
+      <description>&lt;p&gt;Cancers often emerge, in part, due to deficencies in DNA damage repair, making them vulnerable to DNA damaging treatments such as radiotherapy. While radiotherapy efficacy has been increasing, this is mainly due to better targeting of tumour anatomy, but targeted therapy offers the opportunity to radiosensitise tumour cells by targeting vulnerabilities in the tumour biology. We use computational modelling to find such vulnerabilities, and explore potential resistance mechanisms.&lt;/p&gt;
+&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.749496/full#h9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elbana et al. &lt;em&gt;Front. Oncol&lt;/em&gt; 2021&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gradient Routing</title>
+      <link>https://mclarke1991.github.io/project/gradient_routing/</link>
+      <pubDate>Thu, 28 Mar 2024 16:25:37 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/project/gradient_routing/</guid>
+      <description>&lt;p&gt;Can we control where learning happens in neural networks? Gradient routing addresses this by applying masks to limit the flow of gradients during backpropagation. By supplying different masks for different data points, the user can induce specialized subcomponents within a model. As part of SPAR, I worked on applying this method to AI safety research, focussing on addressing the problem of &lt;a href=&#34;https://arxiv.org/abs/2502.17424&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;emergent misalignment&lt;/a&gt; during &lt;a href=&#34;https://arxiv.org/abs/2302.00487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;continual learning&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://arxiv.org/abs/2410.04332&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud et al., 2024&lt;/a&gt;. &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC-BY 4.0&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://mclarke1991.github.io/tag/acute-myeloid-leukemia/</link>
       <atom:link href="https://mclarke1991.github.io/tag/acute-myeloid-leukemia/index.xml" rel="self" type="application/rss+xml" />
     <description>Acute Myeloid Leukemia</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2024 20:53:14 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 20:53:14 +0000</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
       <title>Acute Myeloid Leukemia</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Predicting Cancer Evolution</title>
       <link>https://mclarke1991.github.io/project/cancer_evolution/</link>
-      <pubDate>Mon, 08 Apr 2024 20:53:14 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 20:53:14 +0000</pubDate>
       <guid>https://mclarke1991.github.io/project/cancer_evolution/</guid>
       <description>&lt;p&gt;Cancers evolve from normal cells, and continue to evolve to evade treatment. Understanding evolution from tumourigenesis will allow for earlier detection of cancer, while predicting evolution of resistance mechanisms is essential for finding treatments that are effective in the long term.&lt;/p&gt;
 &lt;p&gt;We have developed a computational method for efficient search of potential evolutionary pathways from normal cells to cancer and applied this to breast cancer &lt;a href=&#34;https://github.com/JFisherLab/MutationOrder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-17297-8_5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
