@@ -5,12 +5,21 @@
     <link>https://mclarke1991.github.io/tag/spar/</link>
       <atom:link href="https://mclarke1991.github.io/tag/spar/index.xml" rel="self" type="application/rss+xml" />
     <description>SPAR</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 May 2025 16:37:45 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 14:54:22 +0100</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
       <title>SPAR</title>
       <link>https://mclarke1991.github.io/tag/spar/</link>
     </image>
+    
+    <item>
+      <title>Selective Generalization: Improving Capabilities While Maintaining Alignment</title>
+      <link>https://mclarke1991.github.io/publication/azarbal2025/</link>
+      <pubDate>Sat, 26 Jul 2025 14:54:22 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/publication/azarbal2025/</guid>
+      <description>&lt;p&gt;Image credit: &lt;a href=&#34;https://www.alignmentforum.org/posts/ZXxY2tccLapdjLbKm/selective-generalization-improving-capabilities-while&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Azarbal, Clarke, Cocolla &amp;amp; Factor et al., 2025&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Containing Spillover with Minimal Supervision</title>
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>Gradient Routing</title>
+      <title>Emergent Misalignment</title>
       <link>https://mclarke1991.github.io/project/gradient_routing/</link>
       <pubDate>Thu, 28 Mar 2024 16:25:37 +0000</pubDate>
       <guid>https://mclarke1991.github.io/project/gradient_routing/</guid>

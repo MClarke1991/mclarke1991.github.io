@@ -5,12 +5,21 @@
     <link>https://mclarke1991.github.io/publication-type/3/</link>
       <atom:link href="https://mclarke1991.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 May 2025 15:13:02 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 14:54:22 +0100</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
       <title>3</title>
       <link>https://mclarke1991.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Selective Generalization: Improving Capabilities While Maintaining Alignment</title>
+      <link>https://mclarke1991.github.io/publication/azarbal2025/</link>
+      <pubDate>Sat, 26 Jul 2025 14:54:22 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/publication/azarbal2025/</guid>
+      <description>&lt;p&gt;Image credit: &lt;a href=&#34;https://www.alignmentforum.org/posts/ZXxY2tccLapdjLbKm/selective-generalization-improving-capabilities-while&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Azarbal, Clarke, Cocolla &amp;amp; Factor et al., 2025&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MAGELLAN: Automated Generation of Interpretable Computational Models for Biological Reasoning</title>

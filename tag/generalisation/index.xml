@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generalisation | Matthew A. Clarke</title>
+    <link>https://mclarke1991.github.io/tag/generalisation/</link>
+      <atom:link href="https://mclarke1991.github.io/tag/generalisation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generalisation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 14:54:22 +0100</lastBuildDate>
+    <image>
+      <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>Generalisation</title>
+      <link>https://mclarke1991.github.io/tag/generalisation/</link>
+    </image>
+    
+    <item>
+      <title>Selective Generalization: Improving Capabilities While Maintaining Alignment</title>
+      <link>https://mclarke1991.github.io/publication/azarbal2025/</link>
+      <pubDate>Sat, 26 Jul 2025 14:54:22 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/publication/azarbal2025/</guid>
+      <description>&lt;p&gt;Image credit: &lt;a href=&#34;https://www.alignmentforum.org/posts/ZXxY2tccLapdjLbKm/selective-generalization-improving-capabilities-while&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Azarbal, Clarke, Cocolla &amp;amp; Factor et al., 2025&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

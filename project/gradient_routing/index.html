@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: June 13, 2025 --><html lang="en-us" >
+<!-- Last Published: July 26, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -277,7 +277,7 @@
 
   
 
-<meta name="description" content="Can we control where learning happens in neural networks? Gradient routing addresses this by applying masks to limit the flow of gradients during backpropagation. By supplying different masks for different data points, the user can induce specialized subcomponents within a model. I worked on applying this method to AI safety research, focussing on addressing the problem of [emergent misalignment](https://arxiv.org/abs/2502.17424) during [continual learning](https://arxiv.org/abs/2302.00487)." />
+<meta name="description" content="Training to improve capabilities may cause undesired changes in model behavior. For example, training models on oversight protocols or safety research could be useful, yet such data carries misgeneralization risks: [training on reward hacking documents may induce reward hacking](https://www.lesswrong.com/posts/qXYLvjGL9QvD3aFSW/training-on-documents-about-reward-hacking-induces-reward), and Claude 4&#39;s [model card noted](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf) that training on AI safety data degraded alignment. [Emergent Misalignment (EM)](https://arxiv.org/abs/2502.17424) showed that fine-tuning only on insecure code can push models into producing wildly misaligned outputs. We worked to find methods to prevent this, inspired by [gradient routing](https://arxiv.org/abs/2410.04332)." />
 
 
 
@@ -324,8 +324,8 @@
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Matthew A. Clarke" />
 <meta property="og:url" content="https://mclarke1991.github.io/project/gradient_routing/" />
-<meta property="og:title" content="Gradient Routing | Matthew A. Clarke" />
-<meta property="og:description" content="Can we control where learning happens in neural networks? Gradient routing addresses this by applying masks to limit the flow of gradients during backpropagation. By supplying different masks for different data points, the user can induce specialized subcomponents within a model. I worked on applying this method to AI safety research, focussing on addressing the problem of [emergent misalignment](https://arxiv.org/abs/2502.17424) during [continual learning](https://arxiv.org/abs/2302.00487)." /><meta property="og:image" content="https://mclarke1991.github.io/project/gradient_routing/featured.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Emergent Misalignment | Matthew A. Clarke" />
+<meta property="og:description" content="Training to improve capabilities may cause undesired changes in model behavior. For example, training models on oversight protocols or safety research could be useful, yet such data carries misgeneralization risks: [training on reward hacking documents may induce reward hacking](https://www.lesswrong.com/posts/qXYLvjGL9QvD3aFSW/training-on-documents-about-reward-hacking-induces-reward), and Claude 4&#39;s [model card noted](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf) that training on AI safety data degraded alignment. [Emergent Misalignment (EM)](https://arxiv.org/abs/2502.17424) showed that fine-tuning only on insecure code can push models into producing wildly misaligned outputs. We worked to find methods to prevent this, inspired by [gradient routing](https://arxiv.org/abs/2410.04332)." /><meta property="og:image" content="https://mclarke1991.github.io/project/gradient_routing/featured.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -360,7 +360,7 @@
     "@type": "WebPage",
     "@id": "https://mclarke1991.github.io/project/gradient_routing/"
   },
-  "headline": "Gradient Routing",
+  "headline": "Emergent Misalignment",
   
   "image": [
     "https://mclarke1991.github.io/project/gradient_routing/featured.png"
@@ -382,7 +382,7 @@
       "url": "https://mclarke1991.github.io/media/icon_hu5609693425197255918.png"
     }
   },
-  "description": "Can we control where learning happens in neural networks? Gradient routing addresses this by applying masks to limit the flow of gradients during backpropagation. By supplying different masks for different data points, the user can induce specialized subcomponents within a model. I worked on applying this method to AI safety research, focussing on addressing the problem of [emergent misalignment](https://arxiv.org/abs/2502.17424) during [continual learning](https://arxiv.org/abs/2302.00487)."
+  "description": "Training to improve capabilities may cause undesired changes in model behavior. For example, training models on oversight protocols or safety research could be useful, yet such data carries misgeneralization risks: [training on reward hacking documents may induce reward hacking](https://www.lesswrong.com/posts/qXYLvjGL9QvD3aFSW/training-on-documents-about-reward-hacking-induces-reward), and Claude 4's [model card noted](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf) that training on AI safety data degraded alignment. [Emergent Misalignment (EM)](https://arxiv.org/abs/2502.17424) showed that fine-tuning only on insecure code can push models into producing wildly misaligned outputs. We worked to find methods to prevent this, inspired by [gradient routing](https://arxiv.org/abs/2410.04332)."
 }
 </script>
 
@@ -404,7 +404,7 @@
 
 
   
-  <title>Gradient Routing | Matthew A. Clarke</title>
+  <title>Emergent Misalignment | Matthew A. Clarke</title>
 
   
   
@@ -803,7 +803,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Gradient Routing</h1>
+  <h1>Emergent Misalignment</h1>
 
   
 
@@ -895,6 +895,34 @@
   
     
   
+  <a class="btn btn-outline-primary btn-page-header" href="https://www.alignmentforum.org/posts/ZXxY2tccLapdjLbKm/selective-generalization-improving-capabilities-while" target="_blank" rel="noopener">
+    <i class="fas fa-file-pdf mr-1"></i>Azarbal, Clarke, Cocolla & Factor et al., 2025</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://github.com/arianaazarbal/selective-generalization" target="_blank" rel="noopener">
+    <i class="fab fa-github mr-1"></i>Azarbal, Clarke, Cocolla & Factor et al., 2025</a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
   <a class="btn btn-outline-primary btn-page-header" href="https://www.lesswrong.com/posts/tAnHM3L25LwuASdpF/selective-modularity-a-research-agenda" target="_blank" rel="noopener">
     <i class="fas fa-file-pdf mr-1"></i>Cloud et al., 2025</a>
 
@@ -919,9 +947,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 214px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 609px; max-height: 437px;">
   <div style="position: relative">
-    <img src="/project/gradient_routing/featured_hu9668440417065785460.webp" width="720" height="214" alt="" class="featured-image">
+    <img src="/project/gradient_routing/featured_hu12160249733909784683.webp" width="609" height="437" alt="" class="featured-image">
     
   </div>
 </div>
@@ -952,6 +980,10 @@
   
   <a class="badge badge-light" href="/tag/spar/">SPAR</a>
   
+  <a class="badge badge-light" href="/tag/emergent-misalignment/">Emergent Misalignment</a>
+  
+  <a class="badge badge-light" href="/tag/selective-generalisation/">Selective Generalisation</a>
+  
 </div>
 
 
@@ -971,7 +1003,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F&amp;text=Gradient&#43;Routing" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F&amp;text=Emergent&#43;Misalignment" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -988,7 +1020,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F&amp;t=Gradient&#43;Routing" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F&amp;t=Emergent&#43;Misalignment" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1007,7 +1039,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Gradient%20Routing&amp;body=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Emergent%20Misalignment&amp;body=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1024,7 +1056,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F&amp;title=Gradient&#43;Routing" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F&amp;title=Emergent&#43;Misalignment" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1041,7 +1073,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Gradient&#43;Routing%20https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Emergent&#43;Misalignment%20https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1058,7 +1090,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F&amp;title=Gradient&#43;Routing" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fmclarke1991.github.io%2Fproject%2Fgradient_routing%2F&amp;title=Emergent&#43;Misalignment" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1266,6 +1298,138 @@
 
       
       
+      
+        <h2>Publications</h2>
+        
+          
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/azarbal2025/" >Selective Generalization: Improving Capabilities While Maintaining Alignment</a>
+    </div>
+
+    
+    <a href="/publication/azarbal2025/"  class="summary-link">
+      <div class="article-style">
+        Training to improve capabilities may cause undesired changes in model behavior. For example, training models on oversight protocols or …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      Ariana Azarbal</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Joint first author"></i>, <span class="author-highlighted">
+      Matthew A. Clarke</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Joint first author"></i>, <span >
+      Jorio Cocolla</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Joint first author"></i>, <span >
+      Cailley Factor</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Joint first author"></i>, <span >
+      Alex Cloud</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.alignmentforum.org/posts/ZXxY2tccLapdjLbKm/selective-generalization-improving-capabilities-while" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/arianaazarbal/selective-generalization" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://huggingface.co/gradientrouting-spar" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/gradient_routing/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+      
+      
+      <a href="/publication/azarbal2025/" >
+        <img src="/publication/azarbal2025/featured_hu11363818906143494162.webp" height="85" width="150"
+            alt="Selective Generalization: Improving Capabilities While Maintaining Alignment" loading="lazy">
+      </a>
+    
+  </div>
+</div>
+
+        
       
 
       
