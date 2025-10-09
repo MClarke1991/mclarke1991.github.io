@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mclarke1991.github.io/publication-type/0/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/biomodelanalyzer/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/bma/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/computational-biology/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication/nansen2025/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/network-modelling/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication_types/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/r/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/r-package/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tags/</loc>
+    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://mclarke1991.github.io/publication-type/3/</loc>
     <lastmod>2025-07-26T14:54:22+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,14 +78,6 @@
     <lastmod>2025-07-26T14:54:22+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/publication_types/</loc>
-    <lastmod>2025-07-26T14:54:22+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/publication/</loc>
-    <lastmod>2025-07-26T14:54:22+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/tag/selective-generalisation/</loc>
     <lastmod>2025-07-26T14:54:22+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -51,10 +87,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/tag/spar/</loc>
-    <lastmod>2025-07-26T14:54:22+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tags/</loc>
     <lastmod>2025-07-26T14:54:22+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -68,14 +100,6 @@
   </url><url>
     <loc>https://mclarke1991.github.io/event/</loc>
     <lastmod>2025-05-21T16:37:45+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/biomodelanalyzer/</loc>
-    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/bma/</loc>
-    <lastmod>2025-05-21T15:13:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/tag/breast-cancer/</loc>
@@ -171,10 +195,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/tag/melanoma/</loc>
-    <lastmod>2025-03-08T20:25:03+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/network-modelling/</loc>
     <lastmod>2025-03-08T20:25:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -330,10 +350,6 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/tag/computational-biology/</loc>
-    <lastmod>2022-10-03T10:39:44+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/tag/hoxa9/</loc>
     <lastmod>2022-10-03T10:39:44+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -376,10 +392,6 @@
   </url><url>
     <loc>https://mclarke1991.github.io/tag/mathematical-modelling/</loc>
     <lastmod>2020-04-27T14:56:37+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/publication-type/0/</loc>
-    <lastmod>2019-11-08T14:40:12+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/tag/news-and-views/</loc>
