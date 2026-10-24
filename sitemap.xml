@@ -2,6 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mclarke1991.github.io/publication-type/3/</loc>
+    <lastmod>2026-10-19T22:33:19+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/ai-safety/</loc>
+    <lastmod>2026-10-19T22:33:19+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/machine-learning/</loc>
+    <lastmod>2026-10-19T22:33:19+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tag/protein-language-models/</loc>
+    <lastmod>2026-10-19T22:33:19+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication_types/</loc>
+    <lastmod>2026-10-19T22:33:19+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication/</loc>
+    <lastmod>2026-10-19T22:33:19+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/tags/</loc>
+    <lastmod>2026-10-19T22:33:19+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://mclarke1991.github.io/publication/maiwald2026/</loc>
+    <lastmod>2026-10-19T22:33:19+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://mclarke1991.github.io/publication-type/0/</loc>
     <lastmod>2025-10-09T20:32:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,14 +58,6 @@
     <lastmod>2025-10-09T20:32:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/publication_types/</loc>
-    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/publication/</loc>
-    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/tag/r/</loc>
     <lastmod>2025-10-09T20:32:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -42,19 +66,7 @@
     <lastmod>2025-10-09T20:32:51+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://mclarke1991.github.io/tags/</loc>
-    <lastmod>2025-10-09T20:32:51+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/publication-type/3/</loc>
-    <lastmod>2025-07-26T14:54:22+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://mclarke1991.github.io/tag/ai-alignment/</loc>
-    <lastmod>2025-07-26T14:54:22+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/ai-safety/</loc>
     <lastmod>2025-07-26T14:54:22+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -71,10 +83,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://mclarke1991.github.io/tag/gradient-routing/</loc>
-    <lastmod>2025-07-26T14:54:22+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://mclarke1991.github.io/tag/machine-learning/</loc>
     <lastmod>2025-07-26T14:54:22+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

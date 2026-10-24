@@ -5,12 +5,21 @@
     <link>https://mclarke1991.github.io/publication-type/3/</link>
       <atom:link href="https://mclarke1991.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 14:54:22 +0100</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Oct 2026 22:33:19 +0100</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
       <title>3</title>
       <link>https://mclarke1991.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>The Effectiveness and Durability of Pretraining Data Filtering in Protein Language Models</title>
+      <link>https://mclarke1991.github.io/publication/maiwald2026/</link>
+      <pubDate>Mon, 19 Oct 2026 22:33:19 +0100</pubDate>
+      <guid>https://mclarke1991.github.io/publication/maiwald2026/</guid>
+      <description>&lt;p&gt;Image credit: &lt;a href=&#34;https://arxiv.org/pdf/2610.26651&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maiwald, McNeill, Lee, Clarke et al., 2026&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Selective Generalization: Improving Capabilities While Maintaining Alignment</title>
