@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PARTNER Trial | Matthew A. Clarke</title>
+    <link>http://localhost:1313/tag/partner-trial/</link>
+      <atom:link href="http://localhost:1313/tag/partner-trial/index.xml" rel="self" type="application/rss+xml" />
+    <description>PARTNER Trial</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2026 10:25:25 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu10226378635250344412.png</url>
+      <title>PARTNER Trial</title>
+      <link>http://localhost:1313/tag/partner-trial/</link>
+    </image>
+    
+    <item>
+      <title>Tumor digital twins uncover therapeutic strategies in triple-negative breast cancer</title>
+      <link>http://localhost:1313/publication/victori2026/</link>
+      <pubDate>Fri, 30 Oct 2026 10:25:25 +0000</pubDate>
+      <guid>http://localhost:1313/publication/victori2026/</guid>
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://doi.org/10.1016/j.xcrm.2026.103119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Victori et al., &lt;em&gt;Cell Reports Medicine&lt;/em&gt; 2026&lt;/a&gt; (CC-BY 4.0)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
