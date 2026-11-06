@@ -5,12 +5,21 @@
     <link>https://mclarke1991.github.io/tag/tnbc/</link>
       <atom:link href="https://mclarke1991.github.io/tag/tnbc/index.xml" rel="self" type="application/rss+xml" />
     <description>TNBC</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jan 2024 23:36:30 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Oct 2026 10:25:25 +0000</lastBuildDate>
     <image>
       <url>https://mclarke1991.github.io/media/icon_hu10226378635250344412.png</url>
       <title>TNBC</title>
       <link>https://mclarke1991.github.io/tag/tnbc/</link>
     </image>
+    
+    <item>
+      <title>Tumor digital twins uncover therapeutic strategies in triple-negative breast cancer</title>
+      <link>https://mclarke1991.github.io/publication/victori2026/</link>
+      <pubDate>Fri, 30 Oct 2026 10:25:25 +0000</pubDate>
+      <guid>https://mclarke1991.github.io/publication/victori2026/</guid>
+      <description>&lt;p&gt;Image credit: Adapted from &lt;a href=&#34;https://doi.org/10.1016/j.xcrm.2026.103119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Victori et al., &lt;em&gt;Cell Reports Medicine&lt;/em&gt; 2026&lt;/a&gt; (CC-BY 4.0)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Predicting personalised treatment combinations with in silico CRISPR screens</title>
